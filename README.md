@@ -1,5 +1,5 @@
 
-![alt text](https://cdn140.picsart.com/317598660135201.png?type=webp&to=min&r=640 "I ♥ Programming")
+![alt text](https://i.imgur.com/xlMe8w8.png "I ♥ Programming")
 ### Hey there 👋🏻
 🍁 Here you'll find some projects which I've been working on for the last years, I hope you have fun reading my code and I also hope I'd be useful for you, good luck 🍀.
 
